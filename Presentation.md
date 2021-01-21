@@ -3,7 +3,7 @@
 ## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods
 
 
-_Stella Metran_  
+_Winnie Chen_  
 _IBM Data Science Professional_
  
 
